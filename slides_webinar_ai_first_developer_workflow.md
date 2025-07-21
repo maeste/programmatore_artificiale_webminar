@@ -8,6 +8,9 @@ paginate: true
 <!-- _class: lead -->
 # AI-First Developer Workflow
 **Potenziare lo sviluppo "da zero" con l'intelligenza artificiale**
+<br/>
+**Stefano Maestri**
+[https://maeste.it](https://maeste.it)
 
 ---
 
@@ -157,7 +160,6 @@ paginate: true
 
 <!-- _class: lead -->
 ## Risorse & Q&A
-
 - **Cursor**:
     - [Homepage](https://cursor.sh/)
     - [Documentation](https://docs.cursor.com/)
@@ -167,5 +169,6 @@ paginate: true
 - **Chatbots**:
     - [Claude](https://www.anthropic.com/claude)
     - [ChatGPT](https://openai.com/chatgpt/)
-
-**Domande?**
+- **Me e quello che abbiamo visto oggi**
+    - https://maeste.it
+    - https://github.com/maeste/programmatore_artificiale_webminar
