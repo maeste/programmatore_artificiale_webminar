@@ -164,11 +164,10 @@ paginate: true
     - [Homepage](https://cursor.sh/)
     - [Documentation](https://docs.cursor.com/)
     - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules)
-- **Google Gemini**:
+- **Google Gemini CLI e Claude code**:
     - [Gemini CLI (GitHub)](https://github.com/google-gemini/gemini-cli)
-- **Chatbots**:
-    - [Claude](https://www.anthropic.com/claude)
-    - [ChatGPT](https://openai.com/chatgpt/)
+    - [Claude Code](https://www.anthropic.com/claude-code)
 - **Me e quello che abbiamo visto oggi**
     - https://maeste.it
     - https://github.com/maeste/programmatore_artificiale_webminar
+    - https://github.com/a2aproject/a2a-tck
