@@ -36,4 +36,13 @@ progetto non venga peggiorato (risultati su test preesistenti identico). Il pian
 anche l'adattamento degli script quali @run_tck.py e @util_scripts/generate_compliance_report.py  
 per considerare i diversi trasporti agginti in spec 0.2.6. La buona riuscita del progetto dipende 
 da una file di specifica da te generato preciso e chiaro per il programmatore junior. Salva il tuo
-piano in un file chiamato porting_026.m
+piano in un file chiamato porting_026.md
+
+
+
+Ho guardto bene il documento d ate generato. Non vedo istruzioni dettagliate per un Junior developer per scaricarsi la versione corretta della          
+specifica. Credo lo dovremmo aggiungere, e anche spiegare al developer su quali file concentrarsi. Rimarca anche che la specifica è l'unica sorgente di 
+verità e che ogni implementazione deve essere validata da quanto contenuto in specifica e che i test scritti dovranno contenere docstring che facciano  
+riferimento al paragrafo della specifica per il quale il test è stato implentato (come già fatto per JSONRPC). CHiarisci molto bene che tutti i test,   
+il codice, i commenti e i docstring dovranno esser ein inglese. La lingua italiana è usata solo ed unicamente per il documento di specifica. Aggiorna   
+@porting_026.md
